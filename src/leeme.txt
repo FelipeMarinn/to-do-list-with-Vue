@@ -1,0 +1,13 @@
+Para utilizar este código puedes:
+
+1. Crea una aplicación vue:
+  1.1 Ingresar a una consola de comandos
+  1.2 Crear una aplicación Vue usando: vue create -d ejercicio
+2. Ingresa a la carpeta ejercicio desde la consola de comandos
+3. Sustituye la carpeta src con la carpeta src de este ejercicio
+4. Inicia la aplicación, para ello desde la consola comando y estando 
+   en la carpeta ejercicio ejecuta el siguiente comando:
+   npm run serve
+5 En un navegador ingresa al siguiente URL:
+  http://localhost:8080
+
